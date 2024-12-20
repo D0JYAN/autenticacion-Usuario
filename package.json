@@ -15,7 +15,8 @@
     "bcrypt": "^5.1.1",
     "db-local": "^3.1.0",
     "ejs": "^3.1.10",
-    "express": "^4.21.2"
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2"
   },
   "devDependencies": {
     "standart": "6.1.0"
