@@ -1,7 +1,17 @@
+###Creacion de usuario
 POST http://localhost:3000/register
 Content-Type: application/json
 
 {
-    "username": "kenya",
+    "username": "dayana",
+    "password": "12345678"
+}
+
+###Login del usuario
+POST http://localhost:3000/login
+Content-Type: application/json
+
+{
+    "username": "dayana",
     "password": "12345678"
 }
